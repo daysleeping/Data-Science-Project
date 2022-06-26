@@ -1,6 +1,5 @@
 """
 Stem project -- data science
-3D32 Yu Bing Nuo
 """
 
 """
